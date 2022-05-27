@@ -1,6 +1,3 @@
-# Viro Starter Kit
-
-This is a blank React Native project setup with Viro.
 
 ## Prerequesites 
 
@@ -18,12 +15,4 @@ Set up the development environment for [react native](https://reactnative.dev/do
 
 if `npx react-native run-android` fails with EACCESS gradlew.bat or EACCESS gradlew, run `chmod +x gradlew.bat` or `chmod +x gradlew`.
 
-NOTE: The variant arguments are not needed for debug or release.
 
-## How to Install Viro in an existing project?
-
-If you are integrating ViroReact into an existing project, have a look at our [Installation instructions](https://github.com/ViroCommunity/viro/blob/main/readmes/INSTALL.md). Please note that this does _not_ work with Expo Managed Workflows. Sorry!
-
-# Need help?
-
-[Reach us in Discord.](https://discord.gg/YfxDBGTxvG)
