@@ -25,5 +25,5 @@ if `npx react-native run-android` fails with EACCESS gradlew.bat or EACCESS grad
 
 ## Screenshots
 
-<img src="[https://cdn-images-1.medium.com/max/1600/1*IwW479jvJFOwbZ7OgDJT3A.gif](https://github.com/Aerothon4-0/airothon_react_native_AR/blob/main/img1.jpeg)" />
+<img src="https://github.com/Aerothon4-0/airothon_react_native_AR/blob/main/img1.jpeg" />
 
