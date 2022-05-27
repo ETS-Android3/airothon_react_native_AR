@@ -29,5 +29,5 @@ App Intialization
 <img src="https://github.com/Aerothon4-0/airothon_react_native_AR/blob/main/img1.jpeg"  style="width:400px;height:auto"/>
 
 Actual Output
-<img src="https://github.com/Aerothon4-0/airothon_react_native_AR/blob/main/img2.jpeg" />
+<img src="https://github.com/Aerothon4-0/airothon_react_native_AR/blob/main/img2.jpeg" style="width:400px;height:auto"/>
 
