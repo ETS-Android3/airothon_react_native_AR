@@ -22,3 +22,8 @@ Set up the development environment for [react native](https://reactnative.dev/do
 5. `npx react-native run-android` or `npx react-native run-ios`
 
 if `npx react-native run-android` fails with EACCESS gradlew.bat or EACCESS gradlew, run `chmod +x gradlew.bat` or `chmod +x gradlew`.
+
+## Screenshots
+
+<img src="[https://cdn-images-1.medium.com/max/1600/1*IwW479jvJFOwbZ7OgDJT3A.gif](https://github.com/Aerothon4-0/airothon_react_native_AR/blob/main/img1.jpeg)" />
+
