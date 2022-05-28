@@ -11,7 +11,7 @@ This application displays 'Airothon 4.0' on the screen on behalf of AR model. Si
 
 Set up the development environment for [react native](https://reactnative.dev/docs/environment-setup). 
 
-> ⚠️ NOTE: The android emulators are not supported by Viro. See [this](https://viro-community.readme.io/docs/frequently-asked-questions#does-this-work-with-ios-simulators-or-android-emulators).
+
 
 ## Installation
 
